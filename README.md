@@ -29,3 +29,16 @@
     <img src="https://raw.githubusercontent.com/NatalyJaya/NatalyJaya/master/profile-summary-card-output/nord_dark/4-productive-time.svg" alt="Productive Time">
   </a>
 </div>
+
+## 🔎 | Explored Languages
+
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript" alt="JavaScript">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B" alt="C++">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <br>
+  <img src="https://img.shields.io/badge/Assembly-008000?style=for-the-badge&logo=assembly&logoColor=white" alt="Assembly">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+</div>

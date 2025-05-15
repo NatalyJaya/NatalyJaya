@@ -6,7 +6,7 @@
 
 <div align="center">
   <p align="justify">
-    I am a Computer Science student with a deep passion for new technologies. My curiosity drives me to constantly explore the latest advancements in the field. I am particularly enthusiastic about the potential of emerging technologies to transform industries and improve lives. With a strong desire to learn, I am committed to expanding my knowledge and skills continuously. I thrive on challenges and am dedicated to surpassing my limits every day, striving for personal and professional growth. My goal is to not only stay updated with the fast-paced tech world but to also contribute meaningfully to it.
+Tech enthusiast on a mission to make the digital world smarter-and maybe a bit safer. Always curious, always learning, and never afraid of a good challenge. Let’s see what tomorrow’s tech has in store!
   </p>
 </div>
 

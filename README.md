@@ -1,5 +1,5 @@
 <div align="center"> 
-  <h1 align="center">Hello there, I'm Nat 👋</h1>
+  <h1 align="center">Hi there! I am Nat </h1>
 </div>
 
 ## 💫 | About me 

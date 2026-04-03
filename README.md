@@ -6,7 +6,7 @@
 
 <div align="center">
   <p align="justify">
-Tech enthusiast on a mission to make the digital world smarter-and maybe a bit safer. Always curious, always learning, and never afraid of a good challenge. Let’s see what tomorrow’s tech has in store!
+Tech enthusiast on a mission to make the digital world smarter-and maybe a bit safer. Always curious, always learning, and never afraid of a good challenge. yolo <3
   </p>
 </div>
 

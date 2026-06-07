@@ -9,6 +9,8 @@
 Tech enthusiast on a mission to make the digital world smarter-and maybe a bit safer. Always curious, always learning, and never afraid of a good challenge. yolo <3
   </p>
 </div>
+<img width="2000" height="2000" alt="image" src="https://github.com/user-attachments/assets/a549d849-140a-430a-8581-39aaa5058504" />
+
 
 ## ⚙ | My Stats 
 

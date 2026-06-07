@@ -1,16 +1,23 @@
 <div align="center"> 
-  <h1 align="center">Hi there! I am Nat </h1>
+  <h1>Hi there! I am Nat</h1>
 </div>
 
 ## 💫 | About me 
 
-<div align="center">
+<div>
+  <img align="right" width="300" alt="Nat's Custom Octocat" src="https://github.com/user-attachments/assets/a549d849-140a-430a-8581-39aaa5058504" />
   <p align="justify">
-Tech enthusiast on a mission to make the digital world smarter-and maybe a bit safer. Always curious, always learning, and never afraid of a good challenge. yolo <3
-  </p>
+    <br>
+      <p>
+        <a href="https://github.com/DenverCoder1/readme-typing-svg">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=1000&color=38B2AC&center=false&vCenter=false&width=400&lines=Computer+Engineering+Student;Software+Developer;Computational+Biomedicine+Enthusiast" alt="Typing SVG" />
+        </a>
+      </p>
+    I am a Computer Engineering student specializing in Software Engineering at the University of Lleida (UdL). My main technical focus revolves around backend development, building software environments, and exploring the integration of Artificial Intelligence within computational biomedicine.
+     </p>
 </div>
-<img width="2000" height="2000" alt="image" src="https://github.com/user-attachments/assets/a549d849-140a-430a-8581-39aaa5058504" />
 
+<br clear="both"/>
 
 ## ⚙ | My Stats 
 
@@ -44,5 +51,3 @@ Tech enthusiast on a mission to make the digital world smarter-and maybe a bit s
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
 </div>
-
-![My GitHub Game](game.gif)
